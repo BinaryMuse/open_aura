@@ -136,7 +136,7 @@ If you're looking for a polished product or a useful assistant, look elsewhere. 
 
 ## License
 
-[TBD]
+MIT
 
 ## Acknowledgments
 
