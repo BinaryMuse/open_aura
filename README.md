@@ -1,5 +1,7 @@
 # Open Aura
 
+![Open Aura](./images/open_aura.png)
+
 An AI companion system focused on authentic, long-term relationship between humans and AI.
 
 ## What This Is
